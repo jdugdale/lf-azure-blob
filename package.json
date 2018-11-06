@@ -1,0 +1,13 @@
+{
+  "name": "lf-azure-blob",
+  "version": "1.1.2",
+  "description": "Simplest, bare-minimum Azure blob storage access",
+  "dependencies": {
+    "azure-storage": "^2.7.0",
+    "dotenv": "^6.1.0"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "author": "LeftFork",
+  "license": "ISC"
+}
